@@ -1,0 +1,8 @@
+{
+  "name": "MediFlow Clinic Hub",
+  "description": "A comprehensive clinic management and patient engagement platform featuring AI-driven symptom intake, automated appointment booking, and a professional admin dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
